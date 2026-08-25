@@ -1,3 +1,7 @@
 read item1,item2,item3
 calculate bill
 print bill
+read bill
+if bill>100 the give 20% discount else
+give 10%
+end if

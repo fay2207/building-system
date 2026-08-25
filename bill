@@ -5,3 +5,4 @@ read bill
 if bill>100 the give 20% discount else
 give 10%
 end if
+add discounbt

@@ -6,3 +6,5 @@ if bill>100 the give 20% discount else
 give 10%
 end if
 add discounbt
+adding coupon system
+for 10 items purchaes give 1 omr coupon
